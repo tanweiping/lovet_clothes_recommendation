@@ -9,7 +9,16 @@ direct marketing campaigns of LOVET
 and whether the placement of virtuAI 
 mirrors in popup booths have led to a successful purchase.
 
-## Author
+## Technologies Used
+- pandas
+- numpy
+- sklean
+- pickle
+- seaborn
+- matplotlib
+- wordcloud 
+- plotly
 
+## Author
 - [@weiping](https://github.com/tanweiping)
 
